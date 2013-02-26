@@ -440,7 +440,7 @@ html[xmlns] #header ul.pagenav {display: block; }
 #mainContainer.articles .post .entry img { margin-bottom:15px; }
 #mainContainer.articles span.post-date { text-transform:uppercase; font-size:11px; color: #a1a1a1; }
 #mainContainer.articles h2 a { font-size: 18px; color: #4aa4d2; text-decoration: none; line-height: 22px;}
-#mainContainer.articles h2 a .author { font-size: 65%;  white-space: nowrap; }
+#mainContainer.articles h2 .author { font-size: 65%;  white-space: nowrap; }
 #mainContainer.articles .post h2 { line-height: 20px; }
 #mainContainer.articles .entry a { font-size:12px; color: #4aa4d2; text-decoration: none; }
 #mainContainer.articles .entry a:hover,

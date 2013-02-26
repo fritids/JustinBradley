@@ -12,7 +12,11 @@ $currentpage = 'detail';
 			<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 			<div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
       	<span class="post-date"><?php the_date(); ?></span>
-        <h2><?php the_title(); ?></h2>
+        <h2><?php the_title(); ?><?php 
+          if ($author = get_post_meta( get_the_ID(), 'written_by', true ) ) {
+            echo '<span class="author"> By ' . $author . '</span>' ; 
+          }
+        ?></a></h2
         <?php 
 					$author_name = get_the_author();
 					if ($author_name != 'webmaster' ): 
