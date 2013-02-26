@@ -1,0 +1,10 @@
+/* Fix for jumping menu items (offset mis-calculation bug in IE7 : */
+#header ul.pagenav ul a {font-weight: normal;margin: 0 ; padding-bottom:0;}
+
+.recognition .navigation {width:990px; }
+
+
+
+#header #search2box:hover { cursor:default;  }
+#header #search2box #search2_click_area { cursor:pointer; }
+#header #search2box #s2 { cursor: text; }

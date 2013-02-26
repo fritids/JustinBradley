@@ -1,0 +1,33 @@
+# -FrontPage-
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName mmm2606
+AuthUserFile /usr/home/justin/www/htdocs/_vti_pvt/service.pwd
+AuthGroupFile /usr/home/justin/www/htdocs/_vti_pvt/service.grp
+
+# Automatically added to force to php4 by Control Panel [123008]
+AddType application/x-httpd-php .php
+#Action application/x-httpd-php /global-bin/php4.cgi
+#Added on '123008' by Control Panel
+Action application/x-httpd-php /global-bin/php5.cgi
+
+#Options +FollowSymlinks
+#RewriteEngine On
+#RewriteBase / 
+
+#RewriteCond %{HTTP_HOST} justinbradley.com
+# don't rewrite if it's already /main
+#RewriteCond %{REQUEST_URI} !pages/
+# if it satisfies those conditions, here's the rewrite rule
+#RewriteRule (.*) http://www.justinbradley.com/pages/$1 [R=301,NC,L]
+

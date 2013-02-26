@@ -1,0 +1,21 @@
+.simplePullQuote{
+	width:197px;
+	float:left;
+	/*border-top:3px #868686 solid;*/
+	border-bottom:6px #000000 solid;
+	/*background: top left no-repeat url("../images/quote.png");*/
+	/*text-indent:10px;*/
+	padding:0px;
+	margin:10px 25px 25px 0;
+	/*-webkit-box-shadow: 7px 7px 8px #818181;
+  	-moz-box-shadow: 7px 7px 8px #818181;*/
+	font-size:25px;
+	font-family: 'PT Sans', sans-serif;
+	color:#000000;
+}
+.large-quote-left{
+	font-size:50px;position:relative; right:202px; float:right; top:-7px;
+}
+.large-quote{
+	font-size:50px; line-height:16px; position:relative; top:17px;
+}

@@ -1,0 +1,20 @@
+# -FrontPage-
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName mmm2606
+AuthUserFile /usr/home/justin/www/htdocs/_vti_pvt/service.pwd
+AuthGroupFile /usr/home/justin/www/htdocs/_vti_pvt/service.grp
+
+# Automatically added to force to php4 by Control Panel [123008]
+AddType application/x-httpd-php .php
+Action application/x-httpd-php /global-bin/php4.cgi

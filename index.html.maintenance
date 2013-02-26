@@ -1,0 +1,232 @@
+<html>
+<head>
+<title>Welcome to JustinBradley</title>
+<meta name="description" content="JustinBradley is a boutique financial staffing firm with a focus on recruiting talent at the Staff Accountant, Financial Analyst and up through CFO level. We provide highly qualified, accounting and finance professionals for permanent positions as well as interim staffing for busy season, staff shortages and projects.">
+<meta name="keywords" content="recruiting, recruiter, search, staffing, placement, permanent, career, employment, employ, hire, temporary, temporaries, temps, interim, consultant, candidate, finance, financial, accounting, accountant, professional, CFO, VP finance, controller, MBA, degree, Acsys, Robert Half, Don Richard, Ajilon, Accountants on Call, Solomon Edwards, Spherion, Kforce 
+">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+ var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+ var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+ if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+ var p,i,x; if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+ d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+ if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+ for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+ var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+ if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<!-- image rotator script START--> 
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- Begin
+var interval = 4.0; // delay between rotating images (in seconds)
+var random_display = 0; // 0 = no, 1 = yes
+interval *= 1000;
+
+var image_index = 0;
+image_list = new Array();
+image_list[image_index++] = new imageItem("images/h_image1.jpg");
+image_list[image_index++] = new imageItem("images/h_image2.jpg");
+image_list[image_index++] = new imageItem("images/h_image3.jpg");
+image_list[image_index++] = new imageItem("images/h_image4.jpg");
+var number_of_image = image_list.length;
+function imageItem(image_location) {
+this.image_item = new Image();
+this.image_item.src = image_location;
+}
+function get_ImageItemLocation(imageObj) {
+return(imageObj.image_item.src)
+}
+function generate(x, y) {
+var range = y - x + 1;
+return Math.floor(Math.random() * range) + x;
+}
+function getNextImage() {
+if (random_display) {
+image_index = generate(0, number_of_image-1);
+}
+else {
+image_index = (image_index+1) % number_of_image;
+}
+var new_image = get_ImageItemLocation(image_list[image_index]);
+return(new_image);
+}
+function rotateImage(place) {
+var new_image = getNextImage();
+document[place].src = new_image;
+var recur_call = "rotateImage('"+place+"')";
+setTimeout(recur_call, interval);
+}
+// End -->
+</script>
+<!-- image rotator script START--> 
+</head>
+<style type="text/css">
+<!--
+body {margin:0; padding:0;}
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #0033CC;
+	font-style: italic;
+	font-weight: bold;
+}
+a:link {
+	color: #0033CC;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #0033CC;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+-->
+</style>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="images/h_background.gif" bgcolor="#FFFFFF" onLoad="rotateImage('rImage')", MM_preloadImages('images/rollovers/nav_aboutus_on.gif/nav_interim_on.gif/nav_placement_on.gif/nav_contact_on.gif/nav_clients_on.gif')">
+
+<div style="padding:30px; margin:30px;">
+<h2> Site is offline for maintenance. </h2>
+<p> Please check back soon, the new JustinBradley.com site is being launched.</p> 
+</div>
+<!--
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="483"> 
+ <table width="483" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="132">
+ <table width="132" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td height="110" width="132">
+ <table width="132" border="0" cellspacing="0" cellpadding="0">
+ <tr> 
+ <td> 
+ <div align="center"></div>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ <tr valign="top" bgcolor="#999999"> 
+ <td height="194" width="132"> 
+ <table width="132" border="0" cellspacing="0" cellpadding="0">
+ <tr> 
+ <td height="47">&nbsp;</td>
+ <td height="47">&nbsp;</td>
+ </tr>
+ <tr> 
+ <td width="23">&nbsp;</td>
+ <td valign="top"> 
+ <table width="90" border="0" cellspacing="0" cellpadding="0">
+ <tr> 
+ <td><a href="aboutus.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','images/rollovers/nav_aboutus_on.gif',1)"><img src="images/rollovers/nav_aboutus_off.gif" width="95" height="13" border="0" name="Image2"></a></td>
+ </tr>
+ <tr> 
+ <td><a href="clients.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','images/rollovers/nav_clients_on.gif',1)"><img src="images/rollovers/nav_clients_off.gif" width="95" height="21" border="0" name="Image5"></a></td>
+ </tr>
+ <tr> 
+ <td><a href="interim.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image3','','images/rollovers/nav_interim_on.gif',1)"><img src="images/rollovers/nav_interim_off.gif" width="95" height="21" border="0" name="Image3"></a></td>
+ </tr>
+ <tr> 
+ <td><a href="placement.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','images/rollovers/nav_placement_on.gif',1)"><img src="images/rollovers/nav_placement_off.gif" width="95" height="21" border="0" name="Image4"></a></td>
+ </tr>
+ <tr> 
+ <td><a href="contact.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','images/rollovers/nav_contact_on.gif',1)"><img src="images/rollovers/nav_contact_off.gif" width="95" height="21" border="0" name="Image6"></a></td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+ <td width="352">
+ <table width="351" border="0" cellspacing="0" cellpadding="0">
+ <tr valign="top"> 
+ <td height="110" width="351"> 
+ <table width="351" border="0" cellspacing="0" cellpadding="0">
+ <tr> 
+ <td height="31">&nbsp;</td>
+ </tr>
+ <tr> 
+ <td> 
+ <div align="center"><img src="images/h_description.gif" alt="Career placement and interim consulting assignments for highly qualified accounting, financial and business professionals" width="275" height="48"></div>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ <tr valign="top"> 
+ <td height="194" width="351">
+ <table width="351" border="0" cellspacing="0" cellpadding="0">
+ <tr> 
+ <td height="55" width="352">&nbsp;</td>
+ </tr>
+ <tr> 
+ <td> 
+ <div align="center"><img src="images/h_logo.gif" width="275" height="96"></div>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+ <td valign="top" align="right"> 
+ <table width="265" border="0" cellspacing="0" cellpadding="0">
+ <tr> 
+ <td height="110" width="265">&nbsp; </td>
+ </tr>
+ <tr> 
+ <td height="194" width="265"><img name="rImage" src="images/h_image1.jpg" width="265" height="194"></td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+</table>
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="132" height="30">&nbsp;</td>
+    <td width="350" height="30">&nbsp;</td>
+    <td width="20">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="132">&nbsp;</td>
+    <td width="350"><div align="center" class="style1">
+      <div align="center">
+        <p>&nbsp;</p>
+        <p><img src="images/accolades.gif" alt="JustinBradley awards" width="350" height="69" border="0"></p>
+      </div>
+    </div></td>
+    <td width="20">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<p>&nbsp;</p-->
+</body>
+</html>

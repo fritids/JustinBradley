@@ -1,0 +1,23 @@
+#homeMainContainer .aBox {background: url(../images/aBox.png) repeat 0 0; }
+#homeMainContainer .bBox {background: url(../images/bBox.png) repeat 0 0; }/**/
+#homeMainContainer .cBox {background: url(../images/cBox.png) repeat 0 0; }/**/
+#homeMainContainer .aBox:hover {background: url(../images/aBox.jpg) repeat 0 0; }
+#homeMainContainer .bBox:hover {background: url(../images/bBox.jpg) repeat 0 0; }/**/
+#homeMainContainer .cBox:hover {background: url(../images/cBox.jpg) repeat 0 0; }
+
+#homeMainContainer DIV.newsReel { border:1px solid #ccc; width:263px; }
+
+#main { border:1px solid #ccc;  }
+
+#header #searchbox #s { padding-top:4px; }
+
+.member { width: 278px; }
+
+#mainContainer #main {max-width: 896px; }
+
+#header #search2box #s2.active {
+	width:130px;
+}
+#header #search2box #search2_click_area.active { 
+	left: -28px; 
+}
