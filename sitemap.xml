@@ -1,252 +1,252 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.justinbradley.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.3.2" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://local.justinbradley.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.3.2" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.7" -->
-<!-- generated-on="February 21, 2013 9:56 pm" -->
+<!-- generated-on="February 26, 2013 5:04 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>http://www.justinbradley.com/</loc>
-		<lastmod>2013-02-21T21:56:06+00:00</lastmod>
+		<loc>http://local.justinbradley.com/</loc>
+		<lastmod>2013-02-26T05:03:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/justinbradley-wins-best-of-staffing-2013/</loc>
+		<loc>http://local.justinbradley.com/networking-neglect-at-your-own-risk-by-john-franklin/</loc>
+		<lastmod>2013-02-26T05:03:57+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.justinbradley.com/networking-your-best-self-marketing-tool-by-renee-lewis/</loc>
+		<lastmod>2013-02-26T05:03:20+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.justinbradley.com/want-a-shot-at-your-dream-job/</loc>
+		<lastmod>2013-02-26T05:02:51+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.justinbradley.com/new-year-new-job-by-beth-monroe-2/</loc>
+		<lastmod>2013-02-26T04:38:09+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.justinbradley.com/justinbradley-wins-best-of-staffing-2013/</loc>
 		<lastmod>2013-02-21T21:56:06+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/new-year-new-job-by-beth-monroe-2/</loc>
-		<lastmod>2013-02-06T18:52:27+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>http://www.justinbradley.com/justinbradleys-khristie-andrus-named-capital-area-staffing-associations-next-president/</loc>
+		<loc>http://local.justinbradley.com/justinbradleys-khristie-andrus-named-capital-area-staffing-associations-next-president/</loc>
 		<lastmod>2013-01-31T20:44:46+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/want-a-shot-at-your-dream-job/</loc>
-		<lastmod>2013-01-03T19:51:43+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>http://www.justinbradley.com/networking-your-best-self-marketing-tool-by-renee-lewis/</loc>
-		<lastmod>2012-11-20T16:25:19+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>http://www.justinbradley.com/best-of-staffing-3-peat-for-justinbradley/</loc>
+		<loc>http://local.justinbradley.com/best-of-staffing-3-peat-for-justinbradley/</loc>
 		<lastmod>2012-11-08T22:16:17+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/justinbradley-turns-10-how-we-got-here/</loc>
+		<loc>http://local.justinbradley.com/justinbradley-turns-10-how-we-got-here/</loc>
 		<lastmod>2012-11-08T22:16:11+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/tough-love-the-opening-paragraph/</loc>
+		<loc>http://local.justinbradley.com/tough-love-the-opening-paragraph/</loc>
 		<lastmod>2012-11-08T22:10:36+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/networking-neglect-at-your-own-risk-by-john-franklin/</loc>
-		<lastmod>2012-11-08T22:10:26+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>http://www.justinbradley.com/smartceo-recognizes-justinbradley-as-one-of-their-future-50-five-on-fire/</loc>
+		<loc>http://local.justinbradley.com/smartceo-recognizes-justinbradley-as-one-of-their-future-50-five-on-fire/</loc>
 		<lastmod>2012-07-18T12:56:59+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/beth-monroe-receives-bravo-women-business-achievement-award/</loc>
+		<loc>http://local.justinbradley.com/beth-monroe-receives-bravo-women-business-achievement-award/</loc>
 		<lastmod>2012-07-18T12:56:43+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/justinbradley-recognized-for-culture-of-continuous-learning-and-employee-development/</loc>
+		<loc>http://local.justinbradley.com/justinbradley-recognized-for-culture-of-continuous-learning-and-employee-development/</loc>
 		<lastmod>2012-07-18T12:56:27+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/inavero-names-justinbradley-to-inaugural-2010-best-of-staffing-list/</loc>
+		<loc>http://local.justinbradley.com/inavero-names-justinbradley-to-inaugural-2010-best-of-staffing-list/</loc>
 		<lastmod>2012-07-18T12:56:13+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/justinbradley-repeats-helios-hr-apollo-award-win/</loc>
+		<loc>http://local.justinbradley.com/justinbradley-repeats-helios-hr-apollo-award-win/</loc>
 		<lastmod>2012-07-18T12:55:48+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/justinbradley-is-a-national-capital-business-ethics-awards-semi-finalist/</loc>
+		<loc>http://local.justinbradley.com/justinbradley-is-a-national-capital-business-ethics-awards-semi-finalist/</loc>
 		<lastmod>2012-07-18T12:55:32+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/inavero-names-justinbradley-to-2011-best-of-staffing-again/</loc>
+		<loc>http://local.justinbradley.com/inavero-names-justinbradley-to-2011-best-of-staffing-again/</loc>
 		<lastmod>2012-07-18T12:55:15+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/project-solutions/</loc>
+		<loc>http://local.justinbradley.com/project-solutions/</loc>
 		<lastmod>2012-07-17T17:02:46+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/executive-search/</loc>
+		<loc>http://local.justinbradley.com/executive-search/</loc>
 		<lastmod>2012-07-17T16:52:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/recruiting-and-interim-staffing/</loc>
+		<loc>http://local.justinbradley.com/recruiting-and-interim-staffing/</loc>
 		<lastmod>2012-07-13T06:33:41+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/about-us/leadership/</loc>
+		<loc>http://local.justinbradley.com/about-us/leadership/</loc>
 		<lastmod>2012-07-13T06:32:40+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/about-us/</loc>
+		<loc>http://local.justinbradley.com/about-us/</loc>
 		<lastmod>2012-07-13T06:31:21+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/contact/</loc>
+		<loc>http://local.justinbradley.com/contact/</loc>
 		<lastmod>2012-07-13T06:30:19+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/for-candidates/</loc>
+		<loc>http://local.justinbradley.com/for-candidates/</loc>
 		<lastmod>2012-07-13T06:29:42+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/about-us/careers/</loc>
+		<loc>http://local.justinbradley.com/about-us/careers/</loc>
 		<lastmod>2012-07-13T05:15:56+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/about-us/recognition/</loc>
+		<loc>http://local.justinbradley.com/about-us/recognition/</loc>
 		<lastmod>2012-07-01T03:39:05+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/about-us/news/</loc>
+		<loc>http://local.justinbradley.com/about-us/news/</loc>
 		<lastmod>2012-07-01T03:38:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/category/recognition/</loc>
+		<loc>http://local.justinbradley.com/category/recognition/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/category/uncategorized/</loc>
+		<loc>http://local.justinbradley.com/category/uncategorized/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2013/02/</loc>
+		<loc>http://local.justinbradley.com/2013/02/</loc>
 		<lastmod>2013-02-21T21:55:39+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2013/01/</loc>
+		<loc>http://local.justinbradley.com/2013/01/</loc>
 		<lastmod>2013-01-31T20:44:14+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2012/11/</loc>
+		<loc>http://local.justinbradley.com/2012/11/</loc>
 		<lastmod>2012-11-20T16:25:00+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2012/09/</loc>
+		<loc>http://local.justinbradley.com/2012/09/</loc>
 		<lastmod>2012-09-11T21:40:47+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2012/07/</loc>
+		<loc>http://local.justinbradley.com/2012/07/</loc>
 		<lastmod>2012-07-02T00:21:02+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2012/02/</loc>
+		<loc>http://local.justinbradley.com/2012/02/</loc>
 		<lastmod>2012-02-23T01:25:55+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2011/02/</loc>
+		<loc>http://local.justinbradley.com/2011/02/</loc>
 		<lastmod>2011-02-18T01:26:18+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2010/10/</loc>
+		<loc>http://local.justinbradley.com/2010/10/</loc>
 		<lastmod>2010-10-30T00:29:55+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2010/06/</loc>
+		<loc>http://local.justinbradley.com/2010/06/</loc>
 		<lastmod>2010-06-04T00:32:54+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2010/03/</loc>
+		<loc>http://local.justinbradley.com/2010/03/</loc>
 		<lastmod>2010-03-10T01:28:35+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2008/06/</loc>
+		<loc>http://local.justinbradley.com/2008/06/</loc>
 		<lastmod>2008-06-07T00:31:42+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2007/07/</loc>
+		<loc>http://local.justinbradley.com/2007/07/</loc>
 		<lastmod>2007-07-26T00:35:04+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>http://www.justinbradley.com/2007/01/</loc>
+		<loc>http://local.justinbradley.com/2007/01/</loc>
 		<lastmod>2007-01-26T01:36:12+00:00</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
