@@ -41,7 +41,14 @@ get_header();
 			
 			<div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
       	<span class="post-date"><?php the_date(); ?></span>
-        <h2><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2>
+        <h2><a href="<?php the_permalink() ?>"><?php the_title(); ?>
+        <?php 
+        	if ($author = get_post_meta( get_the_ID(), 'written_by', true ) ) {
+        		echo '<span class="author"> By ' . $author . '</span>' ; 
+        	}
+        	
+
+        ?></a></h2>
         <div class="entry">
         	<?php
           	the_post_thumbnail();
