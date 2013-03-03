@@ -8,8 +8,7 @@
 		<!-- end Twitter -->
 		<!-- Facebook -->
 		<li class="facebook">
-			<div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false">
-			</div>
+			<div class="fb-send"></div>
 		</li>
 		<!-- end facebook -->
 		<!-- LinkedIn -->
