@@ -131,7 +131,11 @@ if( $total_footers>0 ) {
     <script type="text/javascript" src="<?php bloginfo('template_directory');?>/js/jquery.tinycarousel.min.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory');?>/js/jquery.fancybox.pack.js"></script>
     <script type="text/javascript">			
-			$(document).ready(function(){				
+			$(document).ready(function(){
+
+				setTimeout( function() {
+					$('.social-buttons ul, .social-follow ul').animate({ opacity: 1 }, 500 );
+				}, 3000 );	
 				// Homepage carousel
 				$('#heroContainer').tinycarousel({ pager: true, interval: true, intervaltime: 6000 });
 				

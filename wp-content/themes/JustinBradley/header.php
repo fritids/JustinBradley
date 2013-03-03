@@ -4,6 +4,7 @@
 <head>
 	<meta charset="<?php bloginfo('charset'); ?>" />
 	<meta name="viewport" content="width=device-width" />
+	<?php fbrogmt(); ?>
 	<?php if (is_search()) { ?>
 	   <meta name="robots" content="noindex, nofollow" /> 
 	<?php } ?>
@@ -37,10 +38,20 @@
 		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory');?>/css/ie7.css" />
 	<![endif]-->
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
-      <script type="text/javascript" src="http://use.typekit.com/zhd5axa.js"></script>
-		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript" src="http://use.typekit.com/zhd5axa.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+			
 </head>
 <body <?php body_class(); ?> >
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=133774873437501";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
 	<div id="page-wrap" class="clearfix">
 		<div id="header">
         <a href="<?php echo home_url(); ?>/">
