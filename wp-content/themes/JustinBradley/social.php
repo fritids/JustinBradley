@@ -8,7 +8,7 @@
 		<!-- end Twitter -->
 		<!-- Facebook -->
 		<li class="facebook">
-			<div class="fb-like" data-href="http://justinbradley.com" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false">
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false">
 			</div>
 		</li>
 		<!-- end facebook -->
