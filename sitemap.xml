@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://local.justinbradley.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.3.2" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.7" -->
-<!-- generated-on="February 26, 2013 5:04 am" -->
+<!-- generated-on="March 3, 2013 12:23 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>http://local.justinbradley.com/</loc>
-		<lastmod>2013-02-26T05:03:57+00:00</lastmod>
+		<lastmod>2013-03-03T00:22:06+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://local.justinbradley.com/new-year-new-job-by-beth-monroe-2/</loc>
+		<lastmod>2013-03-03T00:22:06+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://local.justinbradley.com/justinbradley-wins-best-of-staffing-2013/</loc>
+		<lastmod>2013-02-26T06:05:35+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>http://local.justinbradley.com/networking-neglect-at-your-own-risk-by-john-franklin/</loc>
@@ -22,18 +34,6 @@
 	<url>
 		<loc>http://local.justinbradley.com/want-a-shot-at-your-dream-job/</loc>
 		<lastmod>2013-02-26T05:02:51+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>http://local.justinbradley.com/new-year-new-job-by-beth-monroe-2/</loc>
-		<lastmod>2013-02-26T04:38:09+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>http://local.justinbradley.com/justinbradley-wins-best-of-staffing-2013/</loc>
-		<lastmod>2013-02-21T21:56:06+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -176,7 +176,7 @@
 	<url>
 		<loc>http://local.justinbradley.com/2013/02/</loc>
 		<lastmod>2013-02-21T21:55:39+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<changefreq>yearly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
