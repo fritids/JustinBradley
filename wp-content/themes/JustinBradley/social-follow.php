@@ -16,7 +16,7 @@
 		<!-- end Twitter -->
 		<!-- Facebook -->
 		<li class="facebook">
-			<div class="fb-follow" data-href="https://facebook.com/JustinBradleyCo" data-layout="button_count" data-show-faces="false"></div>
+			<div class="fb-like" data-href="https://facebook.com/JustinBradleyCo" data-layout="button_count" data-show-faces="false"></div>
 		</li>
 		<!-- end facebook -->
 		
