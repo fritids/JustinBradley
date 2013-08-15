@@ -130,6 +130,9 @@ if( $total_footers>0 ) {
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory');?>/js/jquery.tinycarousel.min.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory');?>/js/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript" src="/wp-content/plugins/wp-tell-a-friend-popup-form/tell-a-friend-popup.js"></script>
+    <script type="text/javascript" src="/wp-content/plugins/wp-tell-a-friend-popup-form/tell-a-friend-form.js"></script>
+
     <script type="text/javascript">			
 			$(document).ready(function(){
 

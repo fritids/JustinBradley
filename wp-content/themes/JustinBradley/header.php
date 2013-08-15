@@ -31,6 +31,7 @@
 	</title>
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
   <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory');?>/css/jquery.fancybox.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/wp-content/plugins/wp-tell-a-friend-popup-form/tell-a-friend.css" media="screen" />
   <!--[if IE]>
 		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory');?>/css/ie.css" />
 	<![endif]-->
@@ -40,6 +41,7 @@
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
     <script type="text/javascript" src="http://use.typekit.com/zhd5axa.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
 
 			
 </head>

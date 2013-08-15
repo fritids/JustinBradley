@@ -75,7 +75,8 @@ ul, ol { margin: 0 0 10px 0; list-style:none; }
 .alignright { float:left; margin: 5px 0 5px 10px; }
 
 span.button_heading { display:block; color:#034e6c; font-weight:bold; font-style:italic; font-size: 18px; font-family:"athelas",Georgia,"New Century Schoolbook","Nimbus Roman No9 L",serif; margin-top: 30px;}
-a.button { 
+a.button,
+#mainContainer #TellAFriend_BoxContainer a.button { 
 	position:relative;
 	left:-3px;
 	width: 202px;
@@ -89,10 +90,12 @@ a.button {
 	background:url(images/btn_blue_up.png) left top no-repeat; 
 	font-weight: 300;
 }
-a.button:hover { 
+a.button:hover,
+#mainContainer #TellAFriend_BoxContainer a.button:hover { 
 	background:url(images/btn_blue_ov.png) left top no-repeat; 
 }
-a.button:active { 
+a.button:active,
+#mainContainer #TellAFriend_BoxContainer a.button:active { 
 	background:url(images/btn_blue_dn.png) left top no-repeat; 
 }
 

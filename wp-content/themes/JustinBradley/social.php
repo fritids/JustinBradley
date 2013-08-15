@@ -17,5 +17,10 @@
 			<script type="IN/Share"></script>
 		</li>
 		<!-- end LinkedIn -->
+		<!-- Facebook -->
+		<li class="facebook">
+			<div><?php TellAFriend(); ?></div>
+		</li>
+		<!-- end facebook -->
 	</ul>
 </div>

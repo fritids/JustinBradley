@@ -22,6 +22,7 @@
  * @param bool $translate Optional. Default is true. Will switch format to locale.
  * @return string Date formatted by $dateformatstring or locale (if available).
  */
+
 function mysql2date( $dateformatstring, $mysqlstring, $translate = true ) {
 	$m = $mysqlstring;
 	if ( empty( $m ) )

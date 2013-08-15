@@ -1,0 +1,193 @@
+/**
+ *     wp tell a friend popup form
+ *     Copyright (C) 2010 - 2013 www.gopiplus.com
+ *     http://www.gopiplus.com/work/2012/05/21/wordpress-plugin-wp-tell-a-friend-popup-form/
+ * 
+ *     This program is free software: you can redistribute it and/or modify
+ *     it under the terms of the GNU General Public License as published by
+ *     the Free Software Foundation, either version 3 of the License, or
+ *     (at your option) any later version.
+ * 
+ *     This program is distributed in the hope that it will be useful,
+ *     but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *     GNU General Public License for more details.
+ * 
+ *     You should have received a copy of the GNU General Public License
+ *     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+ 
+
+#TellAFriend_BoxContainer
+{
+	width:555px;
+	background:#FFFFFF;
+	padding:15px;
+	position:absolute;
+	z-index:999;
+	cursor:default;
+	font-family: "athelas",Georgia,"New Century Schoolbook","Nimbus Roman No9 L",serif;
+	/*-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;*/
+	display:none;
+}
+#TellAFriend_BoxContainer .share_info {
+	padding-top: 25px;
+	color: #A1A1A1;
+	font-size: 14px;
+}
+
+#TellAFriend_BoxContainerHeader
+{
+	height:45px;
+	/*border-top-right-radius:10px;
+	-moz-border-radius-topright:10px;
+	-webkit-border-top-right-radius:10px;
+	-khtml-border-top-right-radius: 10px;
+	border-top-left-radius:10px;
+	-moz-border-radius-topleft:10px;
+	-webkit-border-top-left-radius:10px;
+	-khtml-border-top-left-radius: 10px;*/
+}
+
+#TellAFriend_BoxContainerHeader a
+{
+   color:#000;
+   font-size:10pt;
+   font-weight:bold;
+}
+
+#TellAFriend_BoxTitle
+{
+	width: 300px;
+   float:left;
+   margin:5px;
+   color:#000;
+   font-size:18pt;
+   font-weight:bold;   
+}
+
+#TellAFriend_BoxClose
+{
+   float:right;
+   margin:5px;
+}
+
+#TellAFriend_BoxClose a
+{
+   text-decoration: none;
+}
+}
+#TellAFriend_BoxContainerBody
+{
+   margin:15px;
+   border-top: 1px solid #e5e5e5;
+}
+
+#TellAFriend_BoxContainerBody h2
+{
+   font-family : Arial, sans-serif;
+   font-size: 14pt;
+   font-weight:bold;
+   color:#333;     
+}
+
+#TellAFriend_BoxContainerBody p
+{
+   font-family : Arial, sans-serif;
+   font-size: 12pt;
+   color:#333;
+}
+
+#TellAFriend_BoxContainerFooter
+{
+   position: fixed; 
+   top:0; 
+   left:0; 
+   bottom:0; 
+   right:0;
+   background:#000000;
+   opacity: .3;
+   -moz-opacity: .3;
+   filter: alpha(opacity=30);
+   border:1px solid #cecece;
+   z-index:50;
+   display:none;
+}
+
+.TellAFriend_BoxLabel 
+{
+	float: left;
+	clear: both;
+	font-size:1.0em;
+	font-weight: bold;
+	color:#000000;
+	padding-top:4px;
+}
+
+.TellAFriend_BoxLabel.label
+{
+	padding: 20px 0 3px;
+}
+
+.TellAFriend_Box_half {
+	float: left;
+	width: 50%;
+}
+
+
+.TellAFriend_Box_half.last {
+	width: 49%;
+	margin-left: 1%;
+}
+
+#TellAFriend_BoxLabel_Page 
+{
+	font-family : Arial, sans-serif;
+	font-size:1.0em;
+	font-weight: bold;
+	color:#000000;
+	padding-top:4px;
+	line-height:0.5em;
+	font-size:14px;
+}
+#TellAFriend_BoxAlert 
+{
+	font-family : Arial, sans-serif;
+	font-size:1.0em;
+	color:#FF0000;
+	padding-top:4px;
+}
+
+.TellAFriend_TextBox,
+.TellAFriend_TextArea {
+	padding: 7px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	border-radius: 4px;
+	border:inset 1px #EBE9ED;
+	border-right:solid 1px #CCCCCC;
+	border-bottom:solid 1px #CCCCCC;
+	background:#ffffff url('/wp-content/themes/JustinBradley/images/bg-textbox.gif') repeat-x left top;
+}
+
+.TellAFriend_TextBox 
+{
+	width:250px;
+	color:#000000;
+	line-height: 24px;
+}
+.TellAFriend_TextArea 
+{
+	width:534px;
+	height:105px;
+	color:#000000;
+}
+.TellAFriend_Button 
+{
+	color:#000000;
+	width:100px;
+}
